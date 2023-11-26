@@ -1,0 +1,4 @@
+- Chrome Extension that saves timestamps in YouTube videos
+- Helps to mark and organize crucial moments within videos, making it easy to revisit, share, or reference specific segments
+- Eliminates endless scrolling or searching for that pivotal moment within a video !
+- Thereby enhances the productivity and convenience of the user.
